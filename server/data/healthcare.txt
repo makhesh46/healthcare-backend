@@ -1,0 +1,14 @@
+Hospital Visiting Hours:
+Visitors are allowed from 10 AM to 6 PM.
+
+Emergency Department:
+Emergency services are available 24/7.
+
+Appointments:
+Patients can book appointments online or by phone.
+
+COVID Guidelines:
+Masks are mandatory inside hospital premises.
+
+Billing:
+Billing support is available from 9 AM to 5 PM.
