@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Healthcare AI System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>🏥 Healthcare AI Dashboard</h1>
+
+  <div class="card">
+    <h2>Login</h2>
+    <input id="email" type="email" placeholder="Email" />
+    <input id="password" type="password" placeholder="Password" />
+    <button onclick="login()">Login</button>
+  </div>
+
+  <div class="card">
+    <h2>Create Task</h2>
+    <input id="task" placeholder="Task title (optional)" />
+    <button onclick="createTask()">Create Task</button>
+  </div>
+
+  <div class="card">
+    <h2>AI Healthcare Assistant 🤖</h2>
+    <input id="chatInput" placeholder="Ask a healthcare question..." />
+    <button onclick="chat()">Ask AI</button>
+    <p id="chatReply"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
