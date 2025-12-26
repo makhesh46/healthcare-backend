@@ -38,23 +38,20 @@ This project demonstrates basic **client–server communication** and **file-bas
 
 ---
 healthcare-management-system/
-│
 ├── client/
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
+│ ├── index.html # Frontend UI
+│ ├── script.js # Frontend logic
+│ └── style.css # Frontend styles
 │
 ├── server/
 │ └── data/
-│ └── healthcare.txt
+│ └── healthcare.txt # Healthcare data file
 │
-├── index.js
-├── package.json
-├── package-lock.json
-├── .env
-└── README.md
-
----
+├── index.js # Backend server entry point
+├── package.json # Project configuration
+├── package-lock.json # Dependency lock file
+├── .env # Environment variables
+└── README.md # Project documentation
 
 ## 🚀 Getting Started
 
